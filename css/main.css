@@ -73,6 +73,27 @@ hr {
     padding: 0;
 }
 
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: #FDD017;
+}
+
+.white, .black {
+  color: white;
+  background-color: black;
+}
+
+.serialnumber {
+  border-bottom: 1px solid green
+}
+
 /*
  * Remove the gap between images, videos, audio and canvas and the bottom of
  * their containers: h5bp.com/i/440
